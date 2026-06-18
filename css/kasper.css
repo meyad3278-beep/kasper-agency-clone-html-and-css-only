@@ -292,7 +292,8 @@ max-width: 100%;
     margin-bottom: 40px;
   }
   .services .srv-box i{
-    margin: 0 0 30px;
+    margin: 0 auto 30px;
+    text-align: center;
   }
 }
 .services .srv-box h3{
